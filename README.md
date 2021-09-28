@@ -14,5 +14,5 @@ This code was tested with Pytorch 1.9.0, CUDA 10.2 and Windows 10.  </br>
 python sce.py
 ```
 
-# Thanks to the third Party
+# Thanks to the third party
 [FDAT](https://github.com/LiangjunFeng/Industrial_ZSL)
