@@ -1,5 +1,5 @@
 # Semantic-consistent Embedding
-The implementation of "Semantic-consistent Embedding for Zero-shot Fault Diagnosis".
+This is the toy data example of "Semantic-consistent Embedding for Zero-shot Fault Diagnosis".
 
 # Requirements
 ~~~
