@@ -11,6 +11,7 @@ scikit-learn=0.24
 This code was tested with Pytorch 1.9.0, CUDA 10.2 and Windows 10.  </br>
 
 # Quick start
+Download the dataset from https://www.kaggle.com/esathyaprakash/electrical-fault-detection-and-classification. Move the dataset to [data] folder.
 ```shell
 python sce.py
 ```
